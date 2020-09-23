@@ -1,6 +1,7 @@
 /* DQL - EduX */
 
 USE EduX;
+
 GO
 
 -- Realizar Consultas
